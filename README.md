@@ -15,7 +15,7 @@ Após realizar o **$git clone** ou **download em .zip**, abra em sua IDE e faça
 
 ## Tecnologias
 
-![Tecnologias](https://skillicons.dev/icons?i=typescript)
+![Tecnologias](https://skillicons.dev/icons?i=adonis,typescript)
 
 ## Testes
 
